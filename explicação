@@ -1,0 +1,65 @@
+Assuma o papel de um engenheiro de dados mongodb utilizando compass. Desejo que avalie, explique e me ajude a definir qual a melhor modelagem de  dados para o seguinte problema:
+
+Estou vasculhando os dados da CFEM em Itabira.
+Existem 3 fontes de recurso:
+- Recurso ordinário CFEM
+- Recurso do fundo de desenvolvimento FUNDESI
+- Recurso do fundo especial de gestão ambiental;
+
+Dentro de Recurso Ordinário CFEM tenho uma subdivisão por natureza da despesa:
+
+    "3.3.50.41 - Contribuições"
+    "3.3.90.30 - Material de Consumo"
+    "3.3.90.35 - Serviços de Consultoria"
+    "3.3.90.37 - Locação de Mão-de-obra"
+    "3.3.90.39 - Outros Serviços de Terceiros - Pessoa Jurídica"
+    "3.3.90.47 - Obrigações Tributárias e Contributivas"
+    "3.3.90.48 - Outros Auxílios Financeiros a Pessoas Físicas"
+    "4.4.50.41 - Contribuições"
+    "4.4.90.51 - Obras e Instalações"
+    "4.4.90.52 - Equip. e Mat. Pemanente"
+    "4.4.90.92 - Despesas de Exercícios Anteriores"
+    "9.9.99.99 - Reserva de Contingência ou Reserva do RPPS"
+    "3.3.90.40 - Serviços Tecnologia da Informação e Comunicação - Pessoa Jur"
+    "4.5.90.27 - Encargos pela Honra de Avais, Garantias, Seguros e Similares"
+    "Totais"
+
+Cada uma dessas naturezas possui as seguintes infos, como no exemplo:
+{
+    "3.3.50.41 - Contribuições": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 6.576.524,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 0,00",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 6.576.524,00",
+        "No Período - Valor Empenhado": "R$ 0,00"
+    },
+
+Descendo o nível e escolhendo os detalhes de determinada natureza obtemos uma separação por credores, como em Obras e Instalações:
+
+    },
+    "ULTRA ENGENHARIA E CONSTRUCOES LTDA": {
+        "CNPJ/CPF": "**.118.774/0001-**",
+        "Valor Empenhado": "R$ 815.120,99",
+        "Valor Em Liquidação": "R$ 0,00",
+        "Valor Liquidado": "R$ 0,00"
+    },
+    "VALADARES CONSTRUCAO COMERCIO E SERVICOS LTDA": {
+        "CNPJ/CPF": "**.885.861/0001-**",
+        "Valor Empenhado": "R$ 1.432.005,71",
+        "Valor Em Liquidação": "R$ 0,00",
+        "Valor Liquidado": "R$ 0,00"
+    },
+    "Totais": {
+        "CNPJ/CPF": "",
+        "Valor Empenhado": "R$ 12.471.062,53",
+        "Valor Em Liquidação": "R$ 0,00",
+        "Valor Liquidado": "R$ 0,00"
+    }
+
+
+E além, dentro de cada empresa em credores, temos uma separação por data de empenho:
+
+Data Emissão Empenho	Número do Empenho	Valor Empenhado	Valor Em Liquidação	Valor Liquidado	Valor Pago	Valor Anulado
+19/01/2024	000679	R$ 700.000,00	R$ 0,00	R$ 0,00	R$ 0,00	R$ 0,00
+
+
+Dentro da data ainda, encontramos uma descrição de como o empenho será/foi gasto.
