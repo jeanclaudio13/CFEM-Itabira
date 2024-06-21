@@ -1,0 +1,38 @@
+{
+    "000681": {
+        "Data Emissão Empenho": "19/01/2024",
+        "Número do Empenho": "000681",
+        "Valor Empenhado": "R$ 600000,00",
+        "Valor Em Liquidação": "R$ 0,00",
+        "Valor Liquidado": "R$ 0,00",
+        "Valor Pago": "R$ 0,00",
+        "Valor Anulado": "R$ 0,00"
+    },
+    "000682": {
+        "Data Emissão Empenho": "19/01/2024",
+        "Número do Empenho": "000682",
+        "Valor Empenhado": "R$ 500000,00",
+        "Valor Em Liquidação": "R$ 0,00",
+        "Valor Liquidado": "R$ 0,00",
+        "Valor Pago": "R$ 0,00",
+        "Valor Anulado": "R$ 0,00"
+    },
+    "000159": {
+        "Data Emissão Empenho": "15/01/2024",
+        "Número do Empenho": "000159",
+        "Valor Empenhado": "R$ 307970,41",
+        "Valor Em Liquidação": "R$ 0,00",
+        "Valor Liquidado": "R$ 0,00",
+        "Valor Pago": "R$ 0,00",
+        "Valor Anulado": "R$ 0,00"
+    },
+    "": {
+        "Data Emissão Empenho": "Totais",
+        "Número do Empenho": "",
+        "Valor Empenhado": "R$ 1407970,41",
+        "Valor Em Liquidação": "R$ 0,00",
+        "Valor Liquidado": "R$ 0,00",
+        "Valor Pago": "R$ 0,00",
+        "Valor Anulado": "R$ 0,00"
+    }
+}
