@@ -1,0 +1,452 @@
+{
+    "317170 - Rateio pela Participação em Consórcio Público": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 500,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -500,00",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 0,00",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "319001 - Aposentadorias, Reserva Remunerada e Reformas": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 4266789,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -721761,60",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 3545027,40",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "319003 - Pensões": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 727000,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -122585,08",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 604414,92",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "319004 - Contratação por Tempo Determinado": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 664076,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 618761,29",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 1282837,29",
+        "No Período - Valor Empenhado": "R$ 122,72",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 122,72",
+        "No Período - Valor Pago": "R$ 122,72"
+    },
+    "319011 - Vencimentos e Vantagens Fixas - Pessoal Civil": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 38645061,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 1198987,19",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 39844048,19",
+        "No Período - Valor Empenhado": "R$ 6663727,16",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 6663727,16",
+        "No Período - Valor Pago": "R$ 6663727,16"
+    },
+    "319013 - Obrigações Patronais": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 2493261,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 1551429,38",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 4044690,38",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "319094 - Indenizações e Restituições Trabalhistas": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 0,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 5000,00",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 5000,00",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "319113 - Obrigações Patronais": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 14425620,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -6307007,59",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 8118612,41",
+        "No Período - Valor Empenhado": "R$ 721326,61",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 721326,61",
+        "No Período - Valor Pago": "R$ 721326,61"
+    },
+    "329021 - Juros sobre a Dívida por Contrato": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 3871975,04",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -1584539,28",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 2287435,76",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "329022 - Outros Encargos sobre a Dívida por Contrato": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 1349347,62",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -360949,15",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 988398,47",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "333041 - Contribuições": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 645523,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 94595,50",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 740118,50",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "335041 - Contribuições": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 2609000,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 1393411,26",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 4002411,26",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "335043 - Subvenções Sociais": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 1504322,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 1560303,86",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 3064625,86",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339008 - Outros Benefícios Assistenciais do Servidor ou do Militar": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 25000,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -2878,60",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 22121,40",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339014 - Diárias - Pessoal Civil": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 66300,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -36991,00",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 29309,00",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339030 - Material de Consumo": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 1876868,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 1477405,53",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 3354273,53",
+        "No Período - Valor Empenhado": "R$ 328151,44",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 328151,44",
+        "No Período - Valor Pago": "R$ 328151,44"
+    },
+    "339031 - Premiações Culturais, Artísticas, Científicas, Desport e Out": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 27000,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -2878,50",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 24121,50",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339032 - Material, Bem ou Serviço para Distribuição Gratuita": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 412750,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -64442,40",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 348307,60",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339033 - Passagens e Despesas com Locomoção": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 165800,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -55501,31",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 110298,69",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339034 - Outras Despesas de Pessoal Decorrente Contrato Terceirização": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 1379054,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -595885,00",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 783169,00",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339035 - Serviços de Consultoria": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 315000,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -234253,89",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 80746,11",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339036 - Outros Serviços de Terceiros - Pessoa Física": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 1003839,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 592536,18",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 1596375,18",
+        "No Período - Valor Empenhado": "R$ 29250,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 27000,00",
+        "No Período - Valor Pago": "R$ 24775,95"
+    },
+    "339037 - Locação de Mão-de-obra": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 3544842,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -603430,31",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 2941411,69",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339039 - Outros Serviços de Terceiros - Pessoa Jurídica": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 36594407,94",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 41972557,80",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 78566965,74",
+        "No Período - Valor Empenhado": "R$ 38391365,03",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 38298033,61",
+        "No Período - Valor Pago": "R$ 38117849,99"
+    },
+    "339046 - Auxílio-alimentação": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 300000,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 422410,03",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 722410,03",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339047 - Obrigações Tributárias e Contributivas": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 3970262,10",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 62951,04",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 4033213,14",
+        "No Período - Valor Empenhado": "R$ 980442,77",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 980442,77",
+        "No Período - Valor Pago": "R$ 980442,77"
+    },
+    "339048 - Outros Auxílios Financeiros a Pessoas Físicas": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 273000,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -56985,00",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 216015,00",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339049 - Auxílio-Transporte": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 300000,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 327897,25",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 627897,25",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339091 - Sentenças Judiciais": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 4634922,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -4277185,44",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 357736,56",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339092 - Despesas de Exercícios Anteriores": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 0,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 8694299,56",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 8694299,56",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339093 - Indenizações e Restituições": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 0,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 113071,48",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 113071,48",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339141 - Contribuições": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 1970064,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 119875,20",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 2089939,20",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "447170 - Rateio pela Participação em Consórcio Público": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 424,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -144,00",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 280,00",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "449035 - Serviços de Consultoria": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 30000,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -30000,00",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 0,00",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "449051 - Obras e Instalações": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 16811160,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -5167798,59",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 11643361,41",
+        "No Período - Valor Empenhado": "R$ 3294446,38",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 3207534,95",
+        "No Período - Valor Pago": "R$ 3012131,06"
+    },
+    "449052 - Equip e Mat Pemanente": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 728640,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -182505,33",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 546134,67",
+        "No Período - Valor Empenhado": "R$ 209010,06",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 203120,31",
+        "No Período - Valor Pago": "R$ 195800,65"
+    },
+    "449061 - Aquisição de Imóveis": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 100000,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -100000,00",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 0,00",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "449091 - Sentenças Judiciais": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 0,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 800000,00",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 800000,00",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "449092 - Despesas de Exercícios Anteriores": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 0,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 213129,00",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 213129,00",
+        "No Período - Valor Empenhado": "R$ 213129,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 213129,00",
+        "No Período - Valor Pago": "R$ 213129,00"
+    },
+    "449093 - Indenizações e Restituições": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 1045000,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -1030364,16",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 14635,84",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "469071 - Principal da Dívida Contratual Resgatado": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 4402597,57",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -2362008,38",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 2040589,19",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "469091 - Sentenças Judiciais": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 0,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 11663620,41",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 11663620,41",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "319192 - Despesas de Exercícios Anteriores": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 0,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 67625,63",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 67625,63",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339339 - Outros Serviços de Terceiros - Pessoa Jurídica": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 500,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -500,00",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 0,00",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "329121 - Juros sobre a Dívida por Contrato": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 17139,15",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -2000,00",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 15139,15",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "469171 - Principal da Dívida Contratual Resgatado": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 1000000,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -12000,00",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 988000,00",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "469173 - Correção Monetária ou Cambial da Dívida Contratual Resgatada": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 166978,62",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -110816,01",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 56162,61",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "999999 - Reserva de Contingência ou Reserva do RPPS": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 8216168,32",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ -8216168,32",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 0,00",
+        "No Período - Valor Empenhado": "R$ 0,00",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 0,00",
+        "No Período - Valor Pago": "R$ 0,00"
+    },
+    "339040 - Serviços Tecnologia da Informação e Comunicação - Pessoa Jur": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 0,00",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 5419095,65",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 5419095,65",
+        "No Período - Valor Empenhado": "R$ 4813634,21",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 4812279,13",
+        "No Período - Valor Pago": "R$ 4787409,37"
+    },
+    "Totais": {
+        "Acumulado até o Período - Dotação Inicial": "R$ 160580191,36",
+        "Acumulado até o Período - Créditos Adicionais/Reduções": "R$ 46126884,30",
+        "Acumulado até o Período - Dotação Atualizada": "R$ 206707075,66",
+        "No Período - Valor Empenhado": "R$ 55644605,38",
+        "No Período - Valor Em Liquidação": "R$ 0,00",
+        "No Período - Valor Liquidado": "R$ 55454867,70",
+        "No Período - Valor Pago": "R$ 55044866,72"
+    }
+}

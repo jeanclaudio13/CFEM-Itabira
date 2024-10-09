@@ -1,0 +1,2262 @@
+{
+  "dados_cfem_itabira": {
+    "anos": {
+      "2018": {
+        "fontes_de_recurso": {
+          "Recursos Ordinários": {
+            "detalhamento_fonte_de_recurso": {
+              "000.0102 - Rec. Ordinários - CEFEM": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0104 - Rec. Ordinários FEGA": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0105 - Rec. Ordinários Fundesi": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0127 - Desvinculação de Receitas - DREM": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "2019": {
+        "fontes_de_recurso": {
+          "Recursos Ordinários - Exercício Corrente": {
+            "detalhamento_fonte_de_recurso": {
+              "000.0102 - Rec. Ordinários - CEFEM": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0104 - Rec. Ordinários FEGA": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0105 - Rec. Ordinários Fundesi": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0127 - Desvinculação de Receitas - DREM": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "Recursos Ordinários - Recursos de Exercícios Anteriores": {
+            "detalhamento_fonte_de_recurso": {
+              "000.0102 - Rec. Ordinários - CEFEM": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0104 - Rec. Ordinários FEGA": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0105 - Rec. Ordinários Fundesi": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0127 - Desvinculação de Receitas - DREM": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "2020": {
+        "fontes_de_recurso": {
+          "Compensação Financeira de Recursos Minerais (CFEM) - Exercício Corrente": {
+            "detalhamento_fonte_de_recurso": {
+              "000.0102 - Rec. Ordinários - CEFEM": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0104 - Rec. Ordinários FEGA": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0105 - Rec. Ordinários Fundesi": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0127 - Desvinculação de Receitas - DREM": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "2021": {
+        "fontes_de_recurso": {
+          "Compensação Financeira de Recursos Minerais (CFEM) - Exercício Corrente": {
+            "detalhamento_fonte_de_recurso": {
+              "000.0102 - Rec. Ordinários - CEFEM": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0104 - Rec. Ordinários FEGA": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0105 - Rec. Ordinários Fundesi": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0127 - Desvinculação de Receitas - DREM": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "Compensação Financeira de Recursos Minerais (CFEM) - Exercícios Anteriores": {
+            "detalhamento_fonte_de_recurso": {
+              "000.0102 - Rec. Ordinários - CEFEM": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0104 - Rec. Ordinários FEGA": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0105 - Rec. Ordinários Fundesi": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0127 - Desvinculação de Receitas - DREM": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "2022": {
+        "fontes_de_recurso": {
+          "Compensação Financeira de Recursos Minerais (CFEM) - Exercício Corrente": {
+            "detalhamento_fonte_de_recurso": {
+              "000.0102 - Rec. Ordinários - CEFEM": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0104 - Rec. Ordinários FEGA": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "000.0105 - Rec. Ordinários Fundesi": [
+                {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "Compensação Financeira de Recursos Minerais (CFEM) - Exercícios Anteriores": {
+              "detalhamento_fonte_de_recurso": {
+                "000.0102 - Rec. Ordinários - CEFEM": [
+                  {
+                    "naturezas_da_despesa": [
+                      {
+                        "Descrição": "",
+                        "Acumulado até o Período - Dotação Inicial": "",
+                        "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                        "Acumulado até o Período - Dotação Atualizada": "",
+                        "No Período - Valor Empenhado": "",
+                        "No Período - Valor Em Liquidação": "",
+                        "No Período - Valor Liquidado": "",
+                        "No Período - Valor Pago": "",
+                        "lista_credores": [
+                          {
+                            "Nome": "",
+                            "CNPJ/CPF": "",
+                            "Valor Empenhado": "",
+                            "Valor Em Liquidação": "",
+                            "Valor Liquidado": "",
+                            "Valor Pago": "",
+                            "Valor Anulado": "",
+                            "lista_empenhos": [
+                              {
+                                "Número do Empenho": "",
+                                "Valor Empenhado": "",
+                                "Valor Em Liquidação": "",
+                                "Valor Liquidado": "",
+                                "Valor Pago": "",
+                                "Valor Anulado": "",
+                                "detalhes_do_empenho": [],
+                                "descrição_do_empenho": [
+                                  {
+                                    "Item": "",
+                                    "Quantidade": "",
+                                    "Unidade": "",
+                                    "Valor Unitário": "",
+                                    "Total": ""
+                                  }
+                                ],
+                                "liquidações": [],
+                                "pagamentos": [],
+                                "retenções": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "000.0104 - Rec. Ordinários FEGA": [
+                  {
+                    "naturezas_da_despesa": [
+                      {
+                        "Descrição": "",
+                        "Acumulado até o Período - Dotação Inicial": "",
+                        "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                        "Acumulado até o Período - Dotação Atualizada": "",
+                        "No Período - Valor Empenhado": "",
+                        "No Período - Valor Em Liquidação": "",
+                        "No Período - Valor Liquidado": "",
+                        "No Período - Valor Pago": "",
+                        "lista_credores": [
+                          {
+                            "Nome": "",
+                            "CNPJ/CPF": "",
+                            "Valor Empenhado": "",
+                            "Valor Em Liquidação": "",
+                            "Valor Liquidado": "",
+                            "Valor Pago": "",
+                            "Valor Anulado": "",
+                            "lista_empenhos": [
+                              {
+                                "Número do Empenho": "",
+                                "Valor Empenhado": "",
+                                "Valor Em Liquidação": "",
+                                "Valor Liquidado": "",
+                                "Valor Pago": "",
+                                "Valor Anulado": "",
+                                "detalhes_do_empenho": [],
+                                "descrição_do_empenho": [
+                                  {
+                                    "Item": "",
+                                    "Quantidade": "",
+                                    "Unidade": "",
+                                    "Valor Unitário": "",
+                                    "Total": ""
+                                  }
+                                ],
+                                "liquidações": [],
+                                "pagamentos": [],
+                                "retenções": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "000.0105 - Rec. Ordinários Fundesi": [
+                  {
+                    "naturezas_da_despesa": [
+                      {
+                        "Descrição": "",
+                        "Acumulado até o Período - Dotação Inicial": "",
+                        "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                        "Acumulado até o Período - Dotação Atualizada": "",
+                        "No Período - Valor Empenhado": "",
+                        "No Período - Valor Em Liquidação": "",
+                        "No Período - Valor Liquidado": "",
+                        "No Período - Valor Pago": "",
+                        "lista_credores": [
+                          {
+                            "Nome": "",
+                            "CNPJ/CPF": "",
+                            "Valor Empenhado": "",
+                            "Valor Em Liquidação": "",
+                            "Valor Liquidado": "",
+                            "Valor Pago": "",
+                            "Valor Anulado": "",
+                            "lista_empenhos": [
+                              {
+                                "Número do Empenho": "",
+                                "Valor Empenhado": "",
+                                "Valor Em Liquidação": "",
+                                "Valor Liquidado": "",
+                                "Valor Pago": "",
+                                "Valor Anulado": "",
+                                "detalhes_do_empenho": [],
+                                "descrição_do_empenho": [
+                                  {
+                                    "Item": "",
+                                    "Quantidade": "",
+                                    "Unidade": "",
+                                    "Valor Unitário": "",
+                                    "Total": ""
+                                  }
+                                ],
+                                "liquidações": [],
+                                "pagamentos": [],
+                                "retenções": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          "000.0912 - Recurso Ordinário do Fundo Especial de Gestão Ambiental - FEGA": {
+            "naturezas_da_despesa": [
+              {
+                "Descrição": "",
+                "Acumulado até o Período - Dotação Inicial": "",
+                "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                "Acumulado até o Período - Dotação Atualizada": "",
+                "No Período - Valor Empenhado": "",
+                "No Período - Valor Em Liquidação": "",
+                "No Período - Valor Liquidado": "",
+                "No Período - Valor Pago": "",
+                "lista_credores": [
+                  {
+                    "Nome": "",
+                    "CNPJ/CPF": "",
+                    "Valor Empenhado": "",
+                    "Valor Em Liquidação": "",
+                    "Valor Liquidado": "",
+                    "Valor Pago": "",
+                    "Valor Anulado": "",
+                    "lista_empenhos": [
+                      {
+                        "Número do Empenho": "",
+                        "Valor Empenhado": "",
+                        "Valor Em Liquidação": "",
+                        "Valor Liquidado": "",
+                        "Valor Pago": "",
+                        "Valor Anulado": "",
+                        "detalhes_do_empenho": [],
+                        "descrição_do_empenho": [
+                          {
+                            "Item": "",
+                            "Quantidade": "",
+                            "Unidade": "",
+                            "Valor Unitário": "",
+                            "Total": ""
+                          }
+                        ],
+                        "liquidações": [],
+                        "pagamentos": [],
+                        "retenções": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "000.0913 - Recurso Ordinário do Fundo de Desenvolvimento Econômico de Itabira - FUNDESI": {
+            "naturezas_da_despesa": [
+              {
+                "Descrição": "",
+                "Acumulado até o Período - Dotação Inicial": "",
+                "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                "Acumulado até o Período - Dotação Atualizada": "",
+                "No Período - Valor Empenhado": "",
+                "No Período - Valor Em Liquidação": "",
+                "No Período - Valor Liquidado": "",
+                "No Período - Valor Pago": "",
+                "lista_credores": [
+                  {
+                    "Nome": "",
+                    "CNPJ/CPF": "",
+                    "Valor Empenhado": "",
+                    "Valor Em Liquidação": "",
+                    "Valor Liquidado": "",
+                    "Valor Pago": "",
+                    "Valor Anulado": "",
+                    "lista_empenhos": [
+                      {
+                        "Número do Empenho": "",
+                        "Valor Empenhado": "",
+                        "Valor Em Liquidação": "",
+                        "Valor Liquidado": "",
+                        "Valor Pago": "",
+                        "Valor Anulado": "",
+                        "detalhes_do_empenho": [],
+                        "descrição_do_empenho": [
+                          {
+                            "Item": "",
+                            "Quantidade": "",
+                            "Unidade": "",
+                            "Valor Unitário": "",
+                            "Total": ""
+                          }
+                        ],
+                        "liquidações": [],
+                        "pagamentos": [],
+                        "retenções": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "2023": {
+        "fontes_de_recurso": [
+          {
+            "Transf União Referente à Compensação Financeira de Recursos Minerais": {
+              "detalhamento_fonte_de_recurso": {
+                "000.0911 - Recurso Ordinário - CFEM": {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "000.0912 - Recurso Ordinário do Fundo Especial de Gestão Ambiental - FEGA": {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "000.0913 - Recurso Ordinário do Fundo de Desenvolvimento Econômico de Itabira - FUNDESI": {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "Transf União Referente à Compensação Financeira de Recursos Minerais": {
+              "detalhamento_fonte_de_recurso": {
+                "000.0911 - Recurso Ordinário - CFEM": {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "000.0912 - Recurso Ordinário do Fundo Especial de Gestão Ambiental - FEGA": {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "000.0913 - Recurso Ordinário do Fundo de Desenvolvimento Econômico de Itabira - FUNDESI": {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "2024": {
+        "fontes_de_recurso": [
+          {
+            "Transf União Referente à Compensação Financeira de Recursos Minerais": {
+              "detalhamento_fonte_de_recurso": {
+                "000.0911 - Recurso Ordinário - CFEM": {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "000.0912 - Recurso Ordinário do Fundo Especial de Gestão Ambiental - FEGA": {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "000.0913 - Recurso Ordinário do Fundo de Desenvolvimento Econômico de Itabira - FUNDESI": {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "Transf União Referente à Compensação Financeira de Recursos Minerais": {
+              "detalhamento_fonte_de_recurso": {
+                "000.0911 - Recurso Ordinário - CFEM": {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "000.0912 - Recurso Ordinário do Fundo Especial de Gestão Ambiental - FEGA": {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "000.0913 - Recurso Ordinário do Fundo de Desenvolvimento Econômico de Itabira - FUNDESI": {
+                  "naturezas_da_despesa": [
+                    {
+                      "Descrição": "",
+                      "Acumulado até o Período - Dotação Inicial": "",
+                      "Acumulado até o Período - Créditos Adicionais/Reduções": "",
+                      "Acumulado até o Período - Dotação Atualizada": "",
+                      "No Período - Valor Empenhado": "",
+                      "No Período - Valor Em Liquidação": "",
+                      "No Período - Valor Liquidado": "",
+                      "No Período - Valor Pago": "",
+                      "lista_credores": [
+                        {
+                          "Nome": "",
+                          "CNPJ/CPF": "",
+                          "Valor Empenhado": "",
+                          "Valor Em Liquidação": "",
+                          "Valor Liquidado": "",
+                          "Valor Pago": "",
+                          "Valor Anulado": "",
+                          "lista_empenhos": [
+                            {
+                              "Número do Empenho": "",
+                              "Valor Empenhado": "",
+                              "Valor Em Liquidação": "",
+                              "Valor Liquidado": "",
+                              "Valor Pago": "",
+                              "Valor Anulado": "",
+                              "detalhes_do_empenho": [],
+                              "descrição_do_empenho": [
+                                {
+                                  "Item": "",
+                                  "Quantidade": "",
+                                  "Unidade": "",
+                                  "Valor Unitário": "",
+                                  "Total": ""
+                                }
+                              ],
+                              "liquidações": [],
+                              "pagamentos": [],
+                              "retenções": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
